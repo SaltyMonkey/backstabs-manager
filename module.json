@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "backstabs-manager",
+    "options": {
+        "cliName": "BM",
+        "guiName": "Backstabs Manager"
+    },
+    "author": "SaltyMonkey",
+    "description": "Blocking backstabs from going in cd when activated without target",
+    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/backstabs-manager/main/"],
+    "supportUrl": "https://github.com/SaltyMonkey/backstabs-manager/issues"
+}

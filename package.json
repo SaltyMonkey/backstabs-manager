@@ -1,0 +1,15 @@
+{
+  "name": "backstabs-manager",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/backstabs.js",
+  "engines": {
+    "node": ">=12.4.0"
+  },
+  "scripts": {
+    "lint": "npx eslint '**/*.js' --fix",
+    "manifest": "node ./.manifest.js"
+  },
+  "author": "SaltyMonkey",
+  "license": "MIT"
+}
