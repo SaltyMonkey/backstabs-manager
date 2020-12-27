@@ -7,6 +7,6 @@
     },
     "author": "SaltyMonkey",
     "description": "Blocking backstabs from going in cd when activated without target",
-    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/backstabs-manager/main/"],
+    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/backstabs-manager/master/"],
     "supportUrl": "https://github.com/SaltyMonkey/backstabs-manager/issues"
 }
